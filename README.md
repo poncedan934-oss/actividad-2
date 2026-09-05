@@ -38,7 +38,7 @@ node --versión
 
 #2. instalación
 
-clonar el proyecto: git clone <URL_DEL_REPOSITORIO>
+clonar el proyecto: git clone https://github.com/poncedan934-oss/actividad-2
 
 ingresar al escritorio cd/turnos-red
 
